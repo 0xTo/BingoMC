@@ -1,0 +1,12 @@
+name: Bingo
+version: 1.0
+author: TheoM-e
+main: fr.theome.bingo.Main
+commands:
+  config:
+    description: Permet de configurer la partie.
+    permission: bingo.config
+  bingo:
+    description: Permet d'afficher la grille du bingo.
+  teaminfo:
+    description: Affiche les informations principales sur les teams (Nombre de joueurs / équipes).
